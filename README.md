@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Nikhil Jaiswal
 
-<!--
-**Nikhil3107jaiswal/Nikhil3107jaiswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **Data Analyst | SQL | Python | Power BI | Excel**
 
-Here are some ideas to get you started:
+I am a Data Analyst with ~2 years of experience in data analysis, reporting, and dashboard development.  
+I specialize in transforming raw data into actionable insights through structured analysis, high-quality reporting, and data visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Skills & Tools
+- **Data Analysis:** SQL, Python (Pandas, NumPy)
+- **Visualization:** Power BI, Excel
+- **Reporting:** Dashboards, KPI reports, written insights
+- **Databases:** MySQL, MS SQL Server, PostgreSQL
+- **Techniques:** Data Cleaning, Validation, Trend Analysis, ETL
+
+---
+
+## 📌 Featured Projects
+🔹 Blinkit Sales & Performance Analysis  
+🔹 E-Commerce Sales Analysis  
+🔹 SQL Case Studies & Business Queries  
+
+➡️ Check my pinned repositories below ⬇️
+
+---
+
+## 📫 Connect with Me
+- 🔗 LinkedIn: https://www.linkedin.com/in/nikhil3107/
+- 💻 GitHub: https://github.com/Nikhil3107jaiswal
+- 📧 Email: nikhiljaiswal3107@gmail.com
+
+---
+
+⭐ *I enjoy working with data, building insights, and solving business problems.*
