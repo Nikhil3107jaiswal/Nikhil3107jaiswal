@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nikhil Jaiswal
 
-📊 **Data Analyst | SQL | Python | Power BI | Excel**
+📊 **Data Analyst/Scientist | SQL | Python | Power BI | Excel | Machine Learning**
 
 I am a Data Analyst with ~2 years of experience in data analysis, reporting, and dashboard development.  
 I specialize in transforming raw data into actionable insights through structured analysis, high-quality reporting, and data visualization.
@@ -8,12 +8,12 @@ I specialize in transforming raw data into actionable insights through structure
 ---
 
 ## 🧠 Skills & Tools
-- **Data Analysis:** SQL, Python (Pandas, NumPy)
+- **Data Analysis:** SQL, Python (Pandas, NumPy, Seaborn, Matplotlib)
 - **Visualization:** Power BI, Excel
 - **Reporting:** Dashboards, KPI reports, written insights
 - **Databases:** MySQL, MS SQL Server, PostgreSQL
 - **Techniques:** Data Cleaning, Validation, Trend Analysis, ETL
-
+- **Machine Learning:** scikit-learn, Regression, Classification, ML Algorithm, model evaluation
 ---
 
 ## 📌 Featured Projects
