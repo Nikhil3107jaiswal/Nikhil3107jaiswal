@@ -8,8 +8,8 @@ I specialize in transforming raw data into actionable insights through structure
 ---
 
 ## 🧠 Skills & Tools
-- **Data Analysis:** SQL, Python (Pandas, NumPy, Seaborn, Matplotlib)
-- **Visualization:** Power BI, Excel
+- **Data Analysis:** SQL, Python (Pandas, NumPy, Seaborn, Matplotlib), EDA
+- **Visualization:** Power BI, Excel, Tableau
 - **Reporting:** Dashboards, KPI reports, written insights
 - **Databases:** MySQL, MS SQL Server, PostgreSQL
 - **Techniques:** Data Cleaning, Validation, Trend Analysis, ETL
